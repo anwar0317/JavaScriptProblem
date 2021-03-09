@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: aqua;
+}
+h1{
+    text-align: center;
+    background-color: lawngreen;
+}
+h4{
+    text-align: center;
+    background-color: wheat;
+}
+.first{
+    margin: 10px;
+    padding: 15px;
+    background-color: azure;
+}
+.second{
+    margin: 10px;
+    padding: 15px;
+    background-color:darkcyan;
+}
+.third{
+    margin: 10px;
+    padding: 15px;
+    background-color: cornsilk;
+}
+.fourth{
+    margin: 10px;
+    padding: 15px;
+    background-color: fuchsia;
+}
